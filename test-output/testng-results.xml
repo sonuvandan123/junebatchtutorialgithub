@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="4" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="59" started-at="2021-08-21T11:08:18 IST" finished-at="2021-08-21T11:08:18 IST">
+    <groups>
+      <group name="Smoke">
+        <method signature="LoginPage.m1()[pri:0, instance:sanity.LoginPage@527740a2]" name="m1" class="sanity.LoginPage"/>
+        <method signature="LoginPage.m4()[pri:0, instance:sanity.LoginPage@527740a2]" name="m4" class="sanity.LoginPage"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test name="Test" duration-ms="59" started-at="2021-08-21T11:08:18 IST" finished-at="2021-08-21T11:08:18 IST">
+      <class name="sanity.LoginPage">
+        <test-method status="PASS" signature="m1()[pri:0, instance:sanity.LoginPage@527740a2]" name="m1" duration-ms="9" started-at="2021-08-21T11:08:18 IST" finished-at="2021-08-21T11:08:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="m4()[pri:0, instance:sanity.LoginPage@527740a2]" name="m4" duration-ms="0" started-at="2021-08-21T11:08:18 IST" finished-at="2021-08-21T11:08:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m4 -->
+      </class> <!-- sanity.LoginPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
